@@ -14,6 +14,7 @@ Cycle: "003"
 Pass_number: "354"
 Tile: "091L"
 Granule: "SWOT_L1B_HR_SLC_003_354_091L_20230913T135948_20230913T135959_PGD0_01"
+Crop Region in radar coordinates:(11409, 13663, 1165, 2096)
 
 Boston:
 Date: "2024-03-27"
@@ -21,3 +22,4 @@ Cycle: "012"
 Pass_number: "576"
 Tile: "080L"
 Granule: "SWOT_L1B_HR_SLC_012_576_080L_20240327T070454_20240327T070505_PGD0_01"
+Crop Region in radar coordinates: (16786, 19985, 3844, 4472)
